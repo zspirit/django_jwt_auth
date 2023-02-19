@@ -1,0 +1,10 @@
+asgiref
+Django
+djangorestframework
+markdown
+django-filter
+pytz
+setuptools
+sqlparse
+wheel
+djangorestframework-simplejwt
